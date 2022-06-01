@@ -1,11 +1,12 @@
 ---
-id: metatransactions-biconomy
+id: meta-transactions-biconomy
 title: Biconomy
 description: Build your next blockchain app on Polygon.
 keywords:
   - docs
   - matic
-image: https://matic.network/banners/matic-network-16x9.png 
+image: https://matic.network/banners/matic-network-16x9.png
+slug: metatransactions-biconomy
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 

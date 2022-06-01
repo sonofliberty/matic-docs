@@ -1,12 +1,13 @@
 ---
-id: metatransactions-gsn
+id: meta-transactions-gsn
 title: Gas Station Network
 sidebar_label: Gas Station Network
 description: Build your next blockchain app on Polygon.
 keywords:
   - docs
   - matic
-image: https://matic.network/banners/matic-network-16x9.png 
+image: https://matic.network/banners/matic-network-16x9.png
+slug: metatransactions-gsn 
 ---
 import useBaseUrl from '@docusaurus/useBaseUrl';
 

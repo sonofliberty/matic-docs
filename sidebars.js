@@ -345,10 +345,10 @@ develop: [
       type: "category",
       label: "Meta Transactions",
       items: [
-        "develop/metatransactions/getting-started",
-        "develop/metatransactions/metatransactions-biconomy",
-        "develop/metatransactions/metatransactions-gsn",
-        "develop/metatransactions/network-agnostics",
+        "develop/meta-transactions/meta-transactions",
+        "develop/meta-transactions/meta-transactions-biconomy",
+        "develop/meta-transactions/meta-transactions-gsn",
+        "develop/meta-transactions/network-agnostics",
       ],
     },
     {
